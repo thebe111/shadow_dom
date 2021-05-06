@@ -1,0 +1,6 @@
+SHADOW DOM
+-------
+
+shadow dom is a tree with an isolated scope, this is used on web
+components frameworks like ReactJS, VueJS, etc ...
+
