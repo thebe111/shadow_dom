@@ -1,6 +1,34 @@
 SHADOW DOM
 -------
 
-shadow dom is a tree with an isolated scope, this is used on web
+Shadow dom is a tree with an isolated scope, this is used on web
 components frameworks like ReactJS, VueJS, etc ...
+
+STATUS
+-------
+
+Completed
+
+CONTENT TABLE
+-------
+
+- used technologies
+- how to run
+- author
+
+USED TECHNOLOGIES
+-------
+
+- HTML
+- Javascript
+
+HOW TO RUN
+-------
+
+Only open the `index.html` in a browser
+
+AUTHOR
+-------
+
+@thebe111
 
